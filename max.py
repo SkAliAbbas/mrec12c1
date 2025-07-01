@@ -4,4 +4,4 @@ for i in range(len(a)):
            if(a[i] > max):
                    max=a[i]
 print(max)
-  
+print (max)
