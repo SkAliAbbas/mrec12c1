@@ -7,8 +7,15 @@ body{
     display:flex;
     align-items: center;
     justify-content: center;
-
+    background-color: lightgray;
+    
+    
+    background-image: url("https://i.pinimg.com/736x/c7/0d/93/c70d9392fa8026c8ef8248907dd978ce.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
 }
+
 
 .ps
 {
@@ -25,7 +32,7 @@ body{
     padding: 30px;
     border: 2px solid black;
     border-radius: 20px;
-    background-color: blueviolet;
+    
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
 }
