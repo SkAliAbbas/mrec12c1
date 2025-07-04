@@ -23,6 +23,11 @@ body{
     gap: 20px;
     padding: 30px;
     border: 0.2px solid black;
+    border-radius: 20px;
+    background-color: blueviolet;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+
 
 }
 button{
