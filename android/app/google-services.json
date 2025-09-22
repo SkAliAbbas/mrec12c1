@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990563625162",
+    "project_id": "prahar-d2570",
+    "storage_bucket": "prahar-d2570.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990563625162:android:6359a85f94048865cd2c33",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63qy56_ZVAFrqiFHMkUOeQcl3UbjZ-M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990563625162:android:c026add365d97d09cd2c33",
+        "android_client_info": {
+          "package_name": "com.qwerty.prahar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63qy56_ZVAFrqiFHMkUOeQcl3UbjZ-M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
